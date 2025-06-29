@@ -252,7 +252,7 @@ const Header = () => {
 
         {/* Mobile Menu */}
         <MobileMenu open={menuOpen}>
-          <a href="#">Home</a>
+          <a href="/home">Home</a>
           <a href="#">Features</a>
           <a href="#">Pricing</a>
           <a href="#">Contact</a>
